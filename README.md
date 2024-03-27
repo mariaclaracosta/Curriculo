@@ -1,6 +1,7 @@
 # Meu Curriculo Vitae
 
-Um parágrafo da descrição do projeto vai aqui
+Esse projeto é um site com uma apresentação minha, nele eu me apresento, mostro um pouco do que eu fiz e coloco o meu github,<br>
+o site possui apenas HTML e CSS mas eu gostei, porém ele ainda é bem simples como pode ser visto nas fotos abaixo. 
 
 ## 🚀 Começando
 
