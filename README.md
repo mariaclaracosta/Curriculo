@@ -1,6 +1,6 @@
 # Meu Curriculo Vitae
 
-Esse projeto é um site com uma apresentação minha, nele eu me apresento, mostro um pouco do que eu fiz e coloco o meu github,<br>
+Esse projeto é um site com uma apresentação minha, nele eu me apresento, mostro um pouco do que eu fiz e coloco o meu github,
 o site possui apenas HTML e CSS mas eu gostei, porém ele ainda é bem simples como pode ser visto nas fotos abaixo. 
 
 ## 🚀 Começando
